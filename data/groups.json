@@ -411,5 +411,12 @@
 		"calendar": "https://www.meetup.com/ixdalouisville/events/ical/",
 		"twitter": "ixdalouisville",
 		"description": "Formerly known as LouisvilleUX! We are a group for anyone interested in creating great experiences for the users of their products, websites, apps, robots, whatever. Join us to meet new people and chat about user centered design, lean UX, UI design, IA, usability, research, new tools and the importance of getting your ideas out of the building. We're everyone who is interested in the field, whether you're a designer, entrepreneur, researcher, or developer. No previous experience necessary."
-	}
+	},
+	"spicecorps-of-louisville" : {
+		"name": "SpiceCorps of Louisville",
+		"frequency": "Meets Quarterly",
+		"web": "https://community.spiceworks.com/spicecorps/louisville",
+		"calendar": "https://community.spiceworks.com/meeting/show/2563#",
+		"description": "Local meetup where IT pros get together to talk shop (and Spiceworks!), trade ideas, problem-solve, and even let off a little steam. These aren't your run-of-the-mill get-togethers - they're run by SpiceHeads, after all! No matter what the topic, our members always find ways to spice IT up and have some fun! "
+	},
 }
